@@ -4,23 +4,22 @@
     <h2>Seja muito bem-vindo ao meu perfil.</h2>
     <p> Graduando em Análise e Desenvolvimento de Sistemas e atuante como Desenvolvedor Backend, com base sólida em C#. Fiz migração de carreira, possuo sólida experiência em liderança e desenvolvimento de times, com ênfase em resultados. 
     </p>
-    <p>• Sólida experiência com projetos construídos em .Net Framework e .Net Core
-• Sólida experiência com aplicações monolíticas e microsserviços
-• Experiência com projetos modelados com DDD e boas práticas de programação SOLID, CleanCode
-• Experiência com APIs Rest, documentadas com Swagger
-• Experiência com AWS
-• Conhecimento com IaC (AWS Cloud Formation, Terraform)
-• Sólida experiência com versionamento de código usando Git
-• Conhecimento de banco de dados SQL
-• Experiência com testes unitários, testes integrados e testes funcionais
-• Experiência com CI/CD utilizando Jenkins, GitHub Actions, AWS Code Pipeline
-• Experiência com ferramentas de gerenciamento de código (BitBucket, GitHub)
-• Conhecimento de Frontend (Angular, React)
-• Prévio conhecimento com Python
-• Conhecimento de métodos ágeis (SCRUM e Kanban)
-• Monitoramento de aplicações utilizando DataDog
-• Experiência com Jira 
-    </p>
+    <p>• Sólida experiência com projetos construídos em .Net Framework e .Net Core </p>
+    <p>• Sólida experiência com aplicações monolíticas e microsserviços </p>
+    <p>• Experiência com projetos modelados com DDD e boas práticas de programação SOLID, CleanCode </p>
+    <p>• Experiência com APIs Rest, documentadas com Swagger </p>
+    <p>• Experiência com AWS </p>
+    <p>• Conhecimento com IaC (AWS Cloud Formation, Terraform) </p>
+    <p>• Sólida experiência com versionamento de código usando Git </p>
+    <p>• Conhecimento de banco de dados SQL </p>
+    <p>• Experiência com testes unitários, testes integrados e testes funcionais </p>
+    <p>• Experiência com CI/CD utilizando Jenkins, GitHub Actions, AWS Code Pipeline </p>
+    <p>• Experiência com ferramentas de gerenciamento de código (BitBucket, GitHub) </p>
+    <p>• Conhecimento de Frontend (Angular, React) </p>
+    <p>• Prévio conhecimento com Python </p>
+    <p>• Conhecimento de métodos ágeis (SCRUM e Kanban) </p>
+    <p>• Monitoramento de aplicações utilizando DataDog </p>
+    <p>• Experiência com Jira </p>
 </div>
 <div>
     <h2>Conecte-se comigo</h2>
